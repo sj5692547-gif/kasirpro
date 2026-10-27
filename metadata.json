@@ -1,0 +1,6 @@
+{
+  "name": "KasirPro UMKM - Platform Kasir SaaS & POS Multi-Tenant",
+  "description": "Aplikasi kasir POS lengkap untuk UMKM Indonesia dengan manajemen stok real-time, analitik penjualan, struk digital WhatsApp, dan portal super admin langganan SaaS.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
